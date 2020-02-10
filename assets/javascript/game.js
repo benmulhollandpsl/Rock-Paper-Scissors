@@ -4,8 +4,7 @@
 // Rock Paper Scissor Mechanics
 //
 
-//initialize firebase here
-
+//how does this communicate with firebase
 
 
 
@@ -120,9 +119,6 @@
           });
       });
   });
+//most of this will be deleted in future commits  
 
 
-
-  //need to get this to show up as a visual game, this code above is from a few searches on stack overflow combined and trimmed a bit.  I don't know if it actually works yet
-  // getting graphics now for ro sham and of course the bo.
-  
